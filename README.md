@@ -1,8 +1,8 @@
 # Hi, I'm Amruthesh H D 👋
 
-I'm a **Computer Science Engineering student** passionate about **Software Development, Data Analytics, and Generative AI**. I enjoy building practical applications, analyzing data, solving real-world problems, and continuously learning new technologies.
+I'm a **Computer Science Engineering student** passionate about **Software Development, Data Analytics, and Generative AI**. I enjoy building practical applications, analyzing data, solving real-world problems, and continuously learning technologies that help turn ideas into real-world solutions.
 
-My interests include **MERN Stack Development**, **Data Analytics**, **Generative AI**, **RAG Applications**, and **AI Agents**.
+My interests include **MERN Stack Development**, **Data Analytics**, **Generative AI**, **RAG Applications**, and **Agentic AI**.
 
 ---
 
@@ -35,9 +35,8 @@ My interests include **MERN Stack Development**, **Data Analytics**, **Generativ
 ### 📊 Data Analytics
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
 **Skills:**
@@ -50,20 +49,19 @@ Data Cleaning • Data Analysis • SQL • Excel • Pivot Tables • Power Que
 ![Generative AI](https://img.shields.io/badge/Generative_AI-6A1B9A?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-5E35B1?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-00897B?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-7B1FA2?style=for-the-badge)
 
 **Areas I'm Exploring:**
-LLMs • Retrieval Augmented Generation (RAG) • Vector Databases • AI Agents • Prompt Engineering • AI-powered Applications
+LLMs • Retrieval Augmented Generation (RAG) • Vector Databases • Agentic AI • Prompt Engineering • AI-powered Applications
 
 ---
 
 ### 🧠 AI Frameworks & Libraries
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Database-5E35B1?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
 ---
@@ -71,6 +69,7 @@ LLMs • Retrieval Augmented Generation (RAG) • Vector Databases • AI Agents
 ### 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
 
@@ -80,20 +79,117 @@ LLMs • Retrieval Augmented Generation (RAG) • Vector Databases • AI Agents
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![ImageKit](https://img.shields.io/badge/ImageKit-FF6C37?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=white)
 
 ---
 
-## 🚀 Career Focus
+## 🚀 Featured Projects
 
-💻 **MERN Stack Development**
-📊 **Data Analytics**
-🤖 **Generative AI & RAG Applications**
-🧠 **AI Agents**
+### 💰 Personal Finance Tracker
+
+A **MERN Stack application** for managing personal income and expenses.
+
+**Tech Used:** React • Node.js • Express.js • MongoDB • JWT • Recharts
+
+**Features:**
+
+* User Authentication
+* Income & Expense Tracking
+* Analytics Dashboard
+* Category-wise Analysis
+* Monthly Reports
 
 ---
 
-⭐ *Always learning, building, and improving!*
+### 📄 PDF Question Answering System
 
-> **Turning ideas into practical applications through Software, Data, and AI.**
+An AI-powered application that allows users to ask questions about PDF documents using **Retrieval-Augmented Generation (RAG)**.
+
+**Tech Used:** Python • LangChain • ChromaDB • Streamlit • Mistral AI
+
+**Features:**
+
+* PDF Document Processing
+* Text Chunking
+* Vector Embeddings
+* Semantic Search
+* AI-powered Question Answering
+
+---
+
+### 🛍️ Smart E-Commerce AI Assistant
+
+An **Agentic AI-powered product recommendation system** that helps users find suitable products based on their preferences.
+
+**Architecture:**
+
+User Query
+⬇️
+Supervisor
+⬇️
+Preference Analysis
+⬇️
+Product Retrieval
+⬇️
+Review Analysis
+⬇️
+Recommendation
+⬇️
+Explanation
+
+**Tech Used:** Python • LangGraph • RAG • ChromaDB • LLMs
+
+---
+
+### 🎤 AI Interview Practice Platform
+
+An AI-powered platform designed to help users practice interviews and receive feedback.
+
+**Features:**
+
+* AI Question Generation
+* AI Answer Evaluation
+* Interview Scoring
+* Personalized Feedback
+* Interview History
+
+**Tech Used:** MERN Stack • MongoDB • Redis • ImageKit • LLM APIs
+
+---
+
+## 📚 Currently Learning
+
+* Advanced SQL
+* Data Analytics
+* Power BI
+* Data Visualization
+* Generative AI
+* Agentic AI
+* Advanced RAG Systems
+
+---
+
+## 🎯 Career Interests
+
+* 💻 MERN Stack Development
+* 📊 Data Analytics
+* 🤖 Generative AI Applications
+* 🧠 Agentic AI & RAG
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: *Add your LinkedIn profile link*
+
+📧 Email: *Add your professional email*
+
+🌐 Portfolio: *Coming Soon*
+
+---
+
+⭐ **Always learning, building, and improving!**
+
+> *"Turning ideas into practical applications through Software, Data, and AI."*
