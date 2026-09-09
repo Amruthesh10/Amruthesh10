@@ -61,7 +61,6 @@ LLMs • Retrieval Augmented Generation (RAG) • Vector Databases • Agentic A
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Database-5E35B1?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
 ---
